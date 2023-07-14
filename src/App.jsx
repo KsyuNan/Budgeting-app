@@ -1,4 +1,5 @@
 import './App.scss';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 import { Button, Stack } from 'react-bootstrap'
 import { BudgetCard } from './components/BudgetCard/BudgetCard';
@@ -26,3 +27,6 @@ function App() {
 }
 
 export default App
+
+
+//https://www.youtube.com/watch?v=yz8x71BiGXg
